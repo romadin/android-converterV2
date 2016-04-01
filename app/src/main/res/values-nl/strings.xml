@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wisselkoersen</string>
+    <string name="action_settings">Instellingen</string>
+
+    <string name="AUD">Australische dollar</string>
+    <string name="BGN">Bulgaarse lev</string>
+    <string name="JPY">Japanse Yen</string>
+    <string name="USD">Amerikaanse Dollar</string>
+    <string name="EUR">Euro</string>
+</resources>
